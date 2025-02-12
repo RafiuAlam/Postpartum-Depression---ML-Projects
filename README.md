@@ -1,2 +1,3 @@
-# Postpartum-Depression---ML-Projects
-Comparitive Analysis of Postpartum Depression Prediction with ML models
+
+This project is an Comparitive Analysis of Postpartum Depression using Multiple machine learning models. 
+The report file in included for indepth insights.
